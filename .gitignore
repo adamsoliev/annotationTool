@@ -1,2 +1,7 @@
+# files
 token.txt
+
+# directories
 env
+.idea
+__pycache__/
